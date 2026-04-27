@@ -222,7 +222,7 @@ main section[id]{ scroll-margin-top: var(--scroll-offset); }
 #produk, .section.alt{ background: linear-gradient(135deg, rgba(13,124,90,.75), rgba(240,138,46,.65)), url('images/hero-1.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
 #value{ background: transparent; }
 #enjoy{ background: linear-gradient(135deg, rgba(13,124,90,.75), rgba(240,138,46,.65)), url('images/hero-2.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
-#gallery{ background: linear-gradient(135deg, rgba(13,124,90,.75), rgba(240,138,46,.65)), url('images/hero-3.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
+#contact{ background: linear-gradient(135deg, rgba(13,124,90,.75), rgba(240,138,46,.65)), url('images/hero-3.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
 .section.alt{ border-block: 1px solid rgba(16,32,24,.04); }
 .section-head{ margin-bottom: 24px; text-align: center; }
 #produk .section-head h2, .section.alt .section-head h2{ color: #000000; }
